@@ -1,5 +1,5 @@
 ## Desafios Front-end
-Esta área destina-se para futuros canditados a vagas de desenvolverdor(a) front-end na [Enext](www.hubfintech.com.br).
+Esta área destina-se para futuros canditados a vagas de desenvolverdor(a) front-end na [Hubfintech](www.hubfintech.com.br).
 
 Hoje temos dois testes técnico disponíveis para diferentes niveis de conhecimento:
 * [`challenge-one`](https://github.com/hubfintech-canais/challenges/tree/master/challenge-one) requer um nível de conhecimento básico.
